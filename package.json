@@ -1,6 +1,6 @@
 {
   "name": "apollo-local-cache",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "An apollo local cache handler meant to be used in react projects using apollo as the graphql client",
   "main": "index.js",
   "scripts": {
